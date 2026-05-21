@@ -1,4 +1,4 @@
-# movieApi
+# Express Movie Api
 
 A simple Express.js movie API example project. Serves movie-related pages and simple search endpoints using local data.
 
